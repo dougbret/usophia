@@ -6,7 +6,7 @@ ExtensionAutoloadPath[]=usophia
 
 
 [SSLZoneSettings]
-SSLZones=enabled
+SSLZones=disabled
 ModuleViewAccessMode[user/*]=ssl
 ModuleViewAccessMode[shop/checkout]=ssl
 
