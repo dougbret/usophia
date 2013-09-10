@@ -1,0 +1,5 @@
+<?php /*
+[AccountSettings]
+Handler=ezdefault
+
+*/ ?>
